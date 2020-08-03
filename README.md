@@ -52,3 +52,7 @@ After opening the project in Teensyduino and connecting the Teensy LC, you have 
 Add the `Bounce2` library (`~2.53.0`) to the sketch.
 
 Now, you can verify and upload your sketch to the Teensy LC.
+
+# License
+
+Copyright (c) 2020 IMAGINARY Licensed under the Apache 2.0 license. See [`LICENSE`](LICENSE) file.
