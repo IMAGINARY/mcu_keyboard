@@ -49,4 +49,6 @@ After opening the project in Teensyduino and connecting the Teensy LC, you have 
 - CPU Speed -> 24 MHz
 - Keyboard Layout: US English (or whatever is needed for your `config.h` modifications)
 
-Now you can verify and upload your sketch to the Teensy LC.
+Add the `Bounce2` library (`~2.53.0`) to the sketch.
+
+Now, you can verify and upload your sketch to the Teensy LC.
